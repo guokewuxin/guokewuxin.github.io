@@ -1,16 +1,16 @@
 {
-  "_from": "live2d-widget-model-tororo",
-  "_id": "live2d-widget-model-tororo@1.0.5",
+  "_from": "live2d-widget-model-tsumiki",
+  "_id": "live2d-widget-model-tsumiki@1.0.5",
   "_inBundle": false,
-  "_integrity": "sha512-qcDZnXyzmNM5NADDAWpknWMCqoip3CZ9bYrKKB0PqusnrUTK0e5k1jAl+RCos9Sbg9g1xzse50vmREwj1LiJ3w==",
-  "_location": "/live2d-widget-model-tororo",
+  "_integrity": "sha512-0rugdU5Fi6XY3wLan6qEvKHKOV7HjdtuP6MEIQSx43oy1E8P/Tx+Nfu8AqVSZ9Y98d6M/nB3WDFHq3Zpjtsvug==",
+  "_location": "/live2d-widget-model-tsumiki",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "live2d-widget-model-tororo",
-    "name": "live2d-widget-model-tororo",
-    "escapedName": "live2d-widget-model-tororo",
+    "raw": "live2d-widget-model-tsumiki",
+    "name": "live2d-widget-model-tsumiki",
+    "escapedName": "live2d-widget-model-tsumiki",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,19 +19,19 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/live2d-widget-model-tororo/-/live2d-widget-model-tororo-1.0.5.tgz",
-  "_shasum": "f556caff824198ff41d12f7cec807e1301ebc9d1",
-  "_spec": "live2d-widget-model-tororo",
+  "_resolved": "https://registry.npmjs.org/live2d-widget-model-tsumiki/-/live2d-widget-model-tsumiki-1.0.5.tgz",
+  "_shasum": "de742cecb460964642f662377dddbadbd3c3feeb",
+  "_spec": "live2d-widget-model-tsumiki",
   "_where": "/root/WANG_wechat/hexo",
   "bugs": {
     "url": "https://github.com/xiazeyu/live2d-widget-models/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "tororo live2d model for live2d-widget.js",
+  "description": "tsumiki live2d model for live2d-widget.js",
   "homepage": "https://github.com/xiazeyu/live2d-widget-models#readme",
   "license": "GPL-2.0",
-  "name": "live2d-widget-model-tororo",
+  "name": "live2d-widget-model-tsumiki",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xiazeyu/live2d-widget-models.git"
