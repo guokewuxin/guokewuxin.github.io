@@ -1,16 +1,16 @@
 {
-  "_from": "live2d-widget-model-tsumiki",
-  "_id": "live2d-widget-model-tsumiki@1.0.5",
+  "_from": "live2d-widget-model-unitychan",
+  "_id": "live2d-widget-model-unitychan@1.0.5",
   "_inBundle": false,
-  "_integrity": "sha512-0rugdU5Fi6XY3wLan6qEvKHKOV7HjdtuP6MEIQSx43oy1E8P/Tx+Nfu8AqVSZ9Y98d6M/nB3WDFHq3Zpjtsvug==",
-  "_location": "/live2d-widget-model-tsumiki",
+  "_integrity": "sha512-7mkTW/VFYdBqA8vjCpn2x3mZoqcdx35LqSEAVmsr/pDnEOhmm8GFOCNpwYOybvg+oBbB3fXeKdLHtv0q7SU9pA==",
+  "_location": "/live2d-widget-model-unitychan",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "live2d-widget-model-tsumiki",
-    "name": "live2d-widget-model-tsumiki",
-    "escapedName": "live2d-widget-model-tsumiki",
+    "raw": "live2d-widget-model-unitychan",
+    "name": "live2d-widget-model-unitychan",
+    "escapedName": "live2d-widget-model-unitychan",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,19 +19,19 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/live2d-widget-model-tsumiki/-/live2d-widget-model-tsumiki-1.0.5.tgz",
-  "_shasum": "de742cecb460964642f662377dddbadbd3c3feeb",
-  "_spec": "live2d-widget-model-tsumiki",
+  "_resolved": "https://registry.npmjs.org/live2d-widget-model-unitychan/-/live2d-widget-model-unitychan-1.0.5.tgz",
+  "_shasum": "fdf0ad303eaca04d42dec05c45a82a24184b7953",
+  "_spec": "live2d-widget-model-unitychan",
   "_where": "/root/WANG_wechat/hexo",
   "bugs": {
     "url": "https://github.com/xiazeyu/live2d-widget-models/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "tsumiki live2d model for live2d-widget.js",
+  "description": "unitychan live2d model for live2d-widget.js",
   "homepage": "https://github.com/xiazeyu/live2d-widget-models#readme",
   "license": "GPL-2.0",
-  "name": "live2d-widget-model-tsumiki",
+  "name": "live2d-widget-model-unitychan",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xiazeyu/live2d-widget-models.git"
